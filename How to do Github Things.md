@@ -27,3 +27,12 @@ Important commands:
 [So here is the syllabus for the course](https://github.com/learn-academy-2021-echo/Syllabus)
 
 These words that are here ^ are in square brackets, and the URL is inside parentheses.
+
+
+### Branching
+
+- $ git branch *informational*
+- $ git checkout -b `name of new branch`
+- $ git status *gives the changes that we introduced*
+- $ git commit -m `message`
+- $ git push origin `name of branch`
