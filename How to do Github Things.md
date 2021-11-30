@@ -33,6 +33,12 @@ These words that are here ^ are in square brackets, and the URL is inside parent
 
 - $ git branch *informational*
 - $ git checkout -b `name of new branch`
+  - checkout navigates between branches
+    - `$ git checkout main` goes to the main branch
+  - `$ checkout` -b creates a new branch
 - $ git status *gives the changes that we introduced*
 - $ git commit -m `message`
 - $ git push origin `name of branch`
+
+- $ git fetch origin `name of branch`
+- $ git checkout `name of branch`
