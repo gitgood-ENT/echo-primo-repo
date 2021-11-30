@@ -1,8 +1,11 @@
 # "#" This is for a header
 ## "##" for a smaller header
 ### "###" for an even smaller header
+
 add some *italics* using stars *
+
 make a **Bold** statement with two starss **
+
 It looks like dashes make a list, let's go grocery shopping!
 - Potatoes
 - Tomatoes
@@ -10,7 +13,7 @@ It looks like dashes make a list, let's go grocery shopping!
 - Tofu
 - Curry Paste
 
-What do these `things` do?
+What do these things on the same button as `~` do? Sarah called them `backticks`.
 
 
 
