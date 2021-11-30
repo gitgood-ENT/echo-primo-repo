@@ -22,3 +22,8 @@ Important commands:
 - $ git add .
 - $ git git commit -m "`Here is where the message goes`"
 - $ git push origin main
+
+
+[So here is the syllabus for the course](https://github.com/learn-academy-2021-echo/Syllabus)
+
+These words that are here ^ are in square brackets, and the URL is inside parentheses.
